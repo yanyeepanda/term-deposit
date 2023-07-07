@@ -1,0 +1,15 @@
+.field {
+  display: flex;
+  margin-bottom: 4px;
+}
+.fieldLabel {
+  width: 160px;
+  padding: 4px;
+}
+.fieldInput {
+  margin: 4px;
+}
+.hint {
+  font-size: 12px;
+  color:darkred;
+}
